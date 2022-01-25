@@ -1,0 +1,18 @@
+*{
+  background-color: lightsteelblue;
+}
+.app {
+  text-align: center;
+  margin-left: auto;
+  margin-top: 40vh;
+  
+}
+
+.subm{
+  margin: 1rem;
+  background-color: #717375;
+}
+.subm:hover{
+  background-color: snow;
+}
+
