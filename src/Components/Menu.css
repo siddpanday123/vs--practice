@@ -1,0 +1,11 @@
+.home:active{
+background-color: lime;
+
+}
+.home{
+    text-decoration: none;
+    font-size: larger;
+    padding: 1rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
